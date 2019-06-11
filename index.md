@@ -72,7 +72,11 @@ I consider these two boards very similar strategically...
 I looked at distribution percentage as well, for example, monochrome boards appear only 5% of the times.  
 It makes no sense to include a lot of them in the subset.
 
-## What is the EV diff? 
+
+<h1 id="What-is-the-EV-diff">
+  What is the EV diff? 
+</h1>
+
 
 How big the error between two options in relation to the pot is, example:  
 - We can only **bet pot** or **check**,  
