@@ -156,7 +156,8 @@ The algorithms i made follow couple of principles and adjust all the settings au
 Even if GTO frequency is 100% for X combo in Y node.  
 When you play, in a LOT of the cases, **you don’t want to follow GTO.**  
 Check the EVs...  
-When the **EVs are very close**, it doesn’t matters what you do, and **you should always play exploitatively.**  
+When the **EVs are very close**, it doesn’t matters what you do in theory(even if pio does something 100%),   
+And in practice **you should always play exploitatively.**  
 
 In both images the pot is 58:  
 
