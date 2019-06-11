@@ -1,10 +1,8 @@
-<h1 id="what-is-the-ev-diff">
-  My Header Name
-</h1>
 
-## FAQ
-<a href="#-">`^`</a>
-- [Who are you, what do you play?](./Who-are-you-what-do-you-play)
+
+# FAQ
+
+- [Who are you, what do you play?](#Who-are-you-what-do-you-play)
 - [How can i contact you?](#How-can-i-contact-you)
 - [What is this?](#What-is-this)
    - [What am i seeing, caption?](#What-am-i-seeing-caption) 
@@ -23,15 +21,23 @@
 	- [I want to buy the program to create the Anki cards myself, blunderhunter.](#I-want-to-buy-the-program-to-create-the-Anki-cards-myself-blunderhunter)
 	- [How do i import what i just bought?](#How-do-i-import-what-i-just-bought)
 
+<h1 id="Who-are-you-what-do-you-play">
+  Who are you, what do you play?
+</h1>
 
-## Who are you, what do you play?
 Poker-player and programmer, i can speak English, Spanish, French.  
 I played pretty all modalities and stakes online for 10+ years, lately mostly MTTS.
 
-## How can i contact you? 
+<h1 id="How-can-i-contact-you">
+  How can i contact you?
+</h1>
+
 The best is to send me an email : *blunderhunter.poker@gmail.com*  
-   
-## What is this?
+
+<h1 id="What-is-this">
+  What is this?
+</h1>   
+
 It is a study tool; the main goals are:
 - Train Your intuition.
 - Find situations where you are totally wrong for study them deeply.
