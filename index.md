@@ -1,6 +1,6 @@
 ## FAQ
 
-- [Who are you, what do you play?](#Who-are-you-what-do-you-play)
+- [Who are you, what do you play?](./Who-are-you-what-do-you-play)
 - [How can i contact you?](#How-can-i-contact-you)
 - [What is this?](#What-is-this)
    - [What am i seeing, caption?](#What-am-i-seeing-caption) 
