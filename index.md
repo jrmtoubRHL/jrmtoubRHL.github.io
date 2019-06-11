@@ -41,12 +41,18 @@ The best is to send me an email : *blunderhunter.poker@gmail.com*
 It is a study tool; the main goals are:
 - Train Your intuition.
 - Find situations where you are totally wrong for study them deeply.
-         
-## What am i seeing, caption?
+
+<h1 id="What-am-i-seeing-caption">
+  What am i seeing, caption?
+</h1> 
+
 ![Ledgend](https://i.imgur.com/UCw9XRj.png)
 		 
 		 
-## Why did you create it?
+<h1 id="Why-did-you-create-it">
+  Why did you create it?
+</h1> 
+
 Mostly to win time, but also to offer the benefits of Spaced Repetition.  
 When you study GTO with Piosolver for example:  
 - It takes huge time to solve the tree.
@@ -59,17 +65,25 @@ I build it alone as a passionate, as i love programming, poker and Game Theory O
 I made it first for use it myself, as i tried all the others competitors, and i feel something was clearly missing and i could do better.
 
 
-      
-## How was it made?
+ <h1 id="How-was-it-made">
+  How was it made?
+</h1> 
+
 - Build the trees.cfr with Piosolver, Subset of 40 strategically different Boards  
 - I build algorithms in order to know witch information of a tree is interesting/important. I extract it
 - I import this information into Anki.
 
-## What trees.CFR setting did you use to build the cards/questions?
+ <h1 id="What-treesCFR-did-you-use-to-build-the-cardsquestions">
+  What trees.CFR setting did you use to build the cards/questions?
+</h1> 
+
 I build them with top players from all formats, using GTO ranges, 0.2% accuracy and many sizings.  
 When you purchase any pack you get all the configuration of the trees.cfr
      
-## Which subset did you used and why?
+ <h1 id="Whitch-subset-did-you-used-and-why">
+  Which subset did you used and why?
+</h1> 
+
 I made a subset of 40 different flops myself.  
 They are all strategically different.  
 I didn’t use pio subsets as they are made for a different purpose. (preflop solving)  
@@ -94,7 +108,10 @@ How big the error between two options in relation to the pot is, example:
 
 Usually when the EVDiff% is less than 2%, it doesn’t matter what you do, and you should play exploitatively.
 
-## How did you choose interesting and important questions?
+<h1 id="How-did-you-choose-interesting-and-important-questions">
+  How did you choose interesting and important questions?
+</h1>
+
 The algorithms i made follow couple of principles and adjust all the settings automatically depending of the situation:
 - If We never Continuation bet of the flop QQ, it should never ask if barrel or not on the turn..
 - Same logic if opponent is never Betting big on flop, the anki cards will never ask you what to do in turn after opponent Bet big on flop.. As this line is never taken.
@@ -104,8 +121,10 @@ The algorithms i made follow couple of principles and adjust all the settings au
 
 [Video with more details](https://www.youtube.com/watch?v=7Bb0wTtsbeA)
 
+<h1 id="What-is-Anki">
+  What is Anki?
+</h1>
 
-## What is Anki?
 - https://apps.ankiweb.net/
 - Anki is an opensource software frequently updated since 2012,
     - It comes blank and you have to add 'Cards' in 'Decks' with thing you want to learn.
@@ -114,7 +133,10 @@ The algorithms i made follow couple of principles and adjust all the settings au
     - But if it feels easy the card might not show again until next month for example.
     - Heavily used for lean new languages, and by medical students etc.
 
-## More about Anki:
+<h1 id="More-about-Anki">
+  More about Anki:
+</h1>
+
 - APP available on PC MAC ANDROID and iOS .
 - Spaced repetition memorization:
 ![Forgetting curves](https://www.supermemo.com/assets/images/frontpage/graph/9-3-1-en.png)
@@ -126,8 +148,10 @@ The algorithms i made follow couple of principles and adjust all the settings au
 - [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html)
 - [Supememo](https://www.supermemo.com/en)
 
+<h1 id="What-is-the-secret-of-GTO-in-poker">
+  What is the secret of GTO in poker?
+</h1>
 
-## What is the secret of GTO in poker?
 Even if GTO frequency is 100% for X combo in Y node.  
 When you play, in a LOT of the cases, **you don’t want to follow GTO.**  
 Check the EVs...  
@@ -150,16 +174,24 @@ The difference is so close that **any small change from the inputs can change ra
 - If HERO or villain don’t play exactly the same strategy in **FUTURE nodes**, from the table to the pio sim.  
 - Etc..  
 
-## The paradoxes of GTO:
+<h1 id="The-paradoxes-of-GTO">
+  The paradoxes of GTO:
+</h1>
+
 - Usually the earlier in the hand, the closer are EVs.
 - When you can bet or check, the EVs are closer than when you are facing a bet.
 - The later in an hand, the more possible it is your opponents play differently than the equilibrium.
 
 That’s why you may find relatively few questions for CBeting Flop for example, the evs are just too similar and for most of the combos it just doesn’t matters..
 
-## Giveaway/Trial Anki cards.
+<h1 id="Free-Anki-cards-Trial">
+  Free Anki cards (Trial)
+</h1>
 
-## Buy Anki cards packages.
+<h1 id="Buy-Anki-cards-packages">
+  Buy Anki cards packages.
+</h1>
+
 Email me witch pack(s) you are interested in :  
 **blunderhunter.poker@gmail.com**  
 And i will let you know how to pay (Skrill Neteller BTC ..)  
@@ -190,11 +222,16 @@ Every pack comes with :
 
 **READY TO USE, SMARTPHONE AND DESKTOP.**
 
-## The spot i am interested in is not listed,
+<h1 id="The-spot-i-am-interested-in-is-not-listed">
+  The spot i am interested in is not listed,
+</h1>
+
 - Email me **blunderhunter.poker@gmail.com**  witch situation you are interested in, and i will give you a price and how many days i can create it depending of the complexity of the trees.
 - Or you can [Vote here](https://linkto.run/p/FZ5SZ3DN) which situation you are interested in, i will pick the most voted.
 
-## I want to buy the program to create the Anki cards myself, blunderhunter.
+<h1 id="I-want-to-buy-the-program-to-create-the-Anki-cards-myself-blunderhunter">
+  I want to buy the program to create the Anki cards myself, blunderhunter.
+</h1>
 
 That was my first idea, but i choose to create the cards myself, BlunderHunter is a bit challenging to use, it require a lot of time to make the CFR, extract from them, convert to anki format and on top of that you need to rent a cloud supercomputer.
 
@@ -207,8 +244,10 @@ Selling the cards have those advantages:
 
 If you really want it, contact me.
 
+<h1 id="How-do-i-import-what-i-just-bought">
+  How do i import what i just bought?
+</h1>
 
-## How do i import what i just bought?
 Congratulation! You will now study the equilibrium much more efficiently!  
 As you can see, the files of the pack are relatively smalls, but they are compressed,  
 When you import them, it is possible your app will freeze for a moment,  
