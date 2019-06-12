@@ -18,9 +18,9 @@
 - [**THE SECRET OF GTO**](#What-is-the-secret-of-GTO-in-poker)  
    - [The paradoxes of GTO](#The-paradoxes-of-GTO)
 - [**Buy Anki cards packages NOW**](#Buy-Anki-cards-packages)  
-   	- [The spot i am interested is not listed,what can i do?](#The-spot-i-am-interested-in-is-not-listed)  
-	- [I want to buy the program to create the Anki cards myself, blunderhunter.](#I-want-to-buy-the-program-to-create-the-Anki-cards-myself-blunderhunter)
-	- [How do i import what i just bought?](#How-do-i-import-what-i-just-bought)
+   - [The spot i am interested is not listed,what can i do?](#The-spot-i-am-interested-in-is-not-listed)  
+   - [I want to buy the program to create the Anki cards myself, blunderhunter.](#I-want-to-buy-the-program-to-create-the-Anki-cards-myself-blunderhunter)
+   - [How do i import what i just bought?](#How-do-i-import-what-i-just-bought)
 
 <h1 id="Who-are-you-what-do-you-play">
   Who are you, what do you play?
