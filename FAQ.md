@@ -47,7 +47,7 @@ It is a study tool; the main goals are:
   What am i seeing, caption?
 </h1> 
 
-![Ledgend](https://i.imgur.com/UCw9XRj.png)
+![Ledgend](https://i.imgur.com/R9Zrmih.png)
 		 
 		 
 <h1 id="Why-did-you-create-it">
