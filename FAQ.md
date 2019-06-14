@@ -254,7 +254,7 @@ Congratulation! You will now study the equilibrium much more efficiently!
 As you can see, the files of the pack are relatively smalls, but they are compressed,  
 ***When you import them, it is possible your app will freeze for a moment, even for 5minutes, 
 Please Be Patient! :)***   
-If it is lagging a bit just after the import, restart anki software.
+If it still lagging a bit just after the import, restart anki software and it will be ok.
 
 
 - For Windows/MAC/LINUX:
