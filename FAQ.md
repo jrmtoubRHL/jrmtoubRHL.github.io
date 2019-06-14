@@ -198,21 +198,23 @@ Email me witch pack(s) you are interested in :
 **blunderhunter.poker@gmail.com**  
 And i will let you know how to pay (Skrill Neteller BTC ..)  
 
-I am currently building the website to automate the sells,   
-Consider yourself lucky to buy it now, as the prices will go up when is it open.  
-
 I currently have ready: 
 - CASH 100bb OR BUvsBB 
 - CASH 100bb OR EP/MPvsBB
-- CASH 100bb 3B SBvsBU
+- [CASH 100bb 3B SBvsBU](https://payhip.com/b/Iakb)
 - CASH 100bb OR COvsBU
-- CASH 100bb 3B HU
+- [CASH 100bb 3B HU](https://payhip.com/b/mvQB)
 - MTT 50bb 3B HJvsBU
 - MTT 30bb OR BUvsBB
 - MTT 30bb OR EP/MPvsBB
 - MTT 17bb OR HJvsBB
-- SPIN 25bb Limp HU
+- [SPIN 23bb Limp HU](https://payhip.com/b/xUnv)
 - SPIN 25bb OR HU
+
+[The online shop link](https://payhip.com/BlunderHunter)  
+
+If you want to pay with **Skrill/Neteller/BTC/other** just email me:
+**blunderhunter.poker@gmail.com**  
 
 Every pack comes with :  
 - Around 50000 Anki Card/ questions in total.  
