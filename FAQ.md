@@ -194,9 +194,6 @@ That’s why you may find relatively few questions for CBeting Flop for example,
   Buy Anki cards packages.
 </h1>
 
-Email me witch pack(s) you are interested in :  
-**blunderhunter.poker@gmail.com**  
-And i will let you know how to pay (Skrill Neteller BTC ..)  
 
 I currently have ready: 
 - CASH 100bb OR BUvsBB 
