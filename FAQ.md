@@ -218,7 +218,7 @@ Every pack comes with :
 - Around 50000 Anki Card/ questions in total.  
 	- Every pack is very well arranged in a similar way:  
 	- ![good order clean](https://i.imgur.com/aK1am2J.png)
-	- There is a BIG file and 3 smaller files, (you might want to take the smaller ones in your phone, and keep you big one on your computer )
+	- There is a BIG file and a smaller file with diferent questions, (you might want to take the small one in your phone, and keep you big one on your computer.. )  
 - Picture of Piosolver setting used; sizings, ranges etc
 - Text document explaining the very few steps for importing the pack in windows/mac/iOS/android.
 
