@@ -17,6 +17,7 @@
    - [More about Anki](#More-about-Anki)
 - [**THE SECRET OF GTO**](#What-is-the-secret-of-GTO-in-poker)  
    - [The paradoxes of GTO](#The-paradoxes-of-GTO)
+-[Download Free Anki Cards Sample](#Free-Anki-cards-Sample)
 - [**Buy Anki cards packages NOW**](#Buy-Anki-cards-packages)  
    - [The spot i am interested is not listed,what can i do?](#The-spot-i-am-interested-in-is-not-listed)  
    - [I want to buy the program to create the Anki cards myself, blunderhunter.](#I-want-to-buy-the-program-to-create-the-Anki-cards-myself-blunderhunter)
@@ -186,11 +187,11 @@ The difference is so close that **any small change from the inputs can change ra
 
 That’s why you may find relatively few questions for CBeting Flop for example, the evs are just too similar and for most of the combos it just doesn’t matters..
 
-<h1 id="Free-Anki-cards-Trial">
-  Free Anki cards (Trial)
+<h1 id="Free-Anki-cards-Sample">
+  Free Anki cards (Sample)
 </h1>
 
-[Download 100 free anki cards (HU CASH 3betpot)](https://github.com/jrmtoubRHL/jrmtoubRHL.github.io/blob/master/Free_sample_100bb_3B_HU.apkg)
+<a href="https://github.com/jrmtoubRHL/jrmtoubRHL.github.io/blob/master/Free_sample_100bb_3B_HU.apkg" download>Download 100 free anki cards (HU CASH 3betpot)</a>
 
 <h1 id="Buy-Anki-cards-packages">
   Buy Anki cards packages.
