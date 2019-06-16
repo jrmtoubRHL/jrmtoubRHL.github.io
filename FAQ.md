@@ -17,7 +17,7 @@
    - [More about Anki](#More-about-Anki)
 - [**THE SECRET OF GTO**](#What-is-the-secret-of-GTO-in-poker)  
    - [The paradoxes of GTO](#The-paradoxes-of-GTO)
--[Download Free Anki Cards Sample](#Free-Anki-cards-Sample)
+- [Download Free Anki Cards Sample](#Free-Anki-cards-Sample)
 - [**Buy Anki cards packages NOW**](#Buy-Anki-cards-packages)  
    - [The spot i am interested is not listed,what can i do?](#The-spot-i-am-interested-in-is-not-listed)  
    - [I want to buy the program to create the Anki cards myself, blunderhunter.](#I-want-to-buy-the-program-to-create-the-Anki-cards-myself-blunderhunter)
