@@ -190,6 +190,8 @@ That’s why you may find relatively few questions for CBeting Flop for example,
   Free Anki cards (Trial)
 </h1>
 
+[Download 100 free anki cards (HU CASH 3betpot)](https://github.com/jrmtoubRHL/jrmtoubRHL.github.io/blob/master/Free_sample_100bb_3B_HU.apkg)
+
 <h1 id="Buy-Anki-cards-packages">
   Buy Anki cards packages.
 </h1>
