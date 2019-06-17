@@ -9,6 +9,7 @@
    - [What am i seeing, caption?](#What-am-i-seeing-caption) 
    - [Why did you create it?](#Why-did-you-create-it)
    - [How was it made?](#How-was-it-made)
+   - [Why did you choose this name? BLunderHunter?](#Why-did-you-choose-this-name-BLunderHunter)
    - [What trees.CFR did you use to build the cards/questions?](#What-treesCFR-did-you-use-to-build-the-cardsquestions)
    - [Whitch subset did you used and why?](#Whitch-subset-did-you-used-and-why)
    - [What is the EV diff?](#What-is-the-EV-diff)
@@ -74,6 +75,12 @@ I made it first for use it myself, as i tried all the others competitors, and i 
 - Build the trees.cfr with Piosolver, Subset of 40 strategically different Boards  
 - I build algorithms in order to know witch information of a tree is interesting/important. I extract it
 - I import this information into Anki.
+
+<h1 id="Why-did-you-choose-this-name-BLunderHunter">
+  Why did you choose this name? BLunderHunter?
+</h1>
+Easy, A Blunder in chess is doing a big mistake, so i wanted to filter all the useless stuff from GTO and focus on what matters. More below.
+
 
  <h1 id="What-treesCFR-did-you-use-to-build-the-cardsquestions">
   What trees.CFR setting did you use to build the cards/questions?
@@ -199,15 +206,15 @@ That’s why you may find relatively few questions for CBeting Flop for example,
 
 
 I currently have ready: 
-- CASH 100bb OR BUvsBB 
-- CASH 100bb OR EP/MPvsBB
+- [CASH 100bb OR BUvsBB](https://payhip.com/b/qg9J) 
+- [CASH 100bb OR EP/MPvsBB](https://payhip.com/b/bEkr)
 - [CASH 100bb 3B SBvsBU](https://payhip.com/b/Iakb)
 - CASH 100bb OR COvsBU
 - [CASH 100bb 3B HU](https://payhip.com/b/mvQB)
-- MTT 50bb 3B HJvsBU
-- MTT 30bb OR BUvsBB
-- MTT 30bb OR EP/MPvsBB
-- MTT 17bb OR HJvsBB
+- [MTT 50bb 3B HJvsBU](https://payhip.com/b/dRXt)
+- [MTT 30bb OR BUvsBB](https://payhip.com/b/QhIm)
+- [MTT 30bb OR EPvsBB](https://payhip.com/b/cGdr)
+- [MTT 17bb OR HJvsBB](https://payhip.com/b/9RlA)
 - [SPIN 23bb Limp HU](https://payhip.com/b/xUnv)
 - SPIN 25bb OR HU
 
