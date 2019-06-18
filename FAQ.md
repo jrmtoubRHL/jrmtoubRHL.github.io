@@ -209,7 +209,7 @@ I currently have ready:
 - [CASH 100bb OR BUvsBB](https://payhip.com/b/qg9J) 
 - [CASH 100bb OR EP/MPvsBB](https://payhip.com/b/bEkr)
 - [CASH 100bb 3B SBvsBU](https://payhip.com/b/Iakb)
-- CASH 100bb OR COvsBU
+- [CASH 100bb OR COvsBU](https://payhip.com/b/WyAc)
 - [CASH 100bb 3B HU](https://payhip.com/b/mvQB)
 - [MTT 50bb 3B HJvsBU](https://payhip.com/b/dRXt)
 - [MTT 30bb OR BUvsBB](https://payhip.com/b/QhIm)
