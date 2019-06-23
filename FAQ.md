@@ -13,7 +13,7 @@
    - [What trees.CFR did you use to build the cards/questions?](#What-treesCFR-did-you-use-to-build-the-cardsquestions)
    - [Whitch subset did you used and why?](#Whitch-subset-did-you-used-and-why)
    - [What is the EV diff?](#What-is-the-EV-diff)
-   - [How did you choose interesting and important questions?](#how-did-you-choose-interesting-and-important-questions)  
+   - [How did you choose interesting and important questions?](#How-did-you-choose-interesting-and-important-questions)  
 - [What is Anki?](#What-is-Anki)
    - [More about Anki](#More-about-Anki)
 - [**THE SECRET OF GTO**](#What-is-the-secret-of-GTO-in-poker)  
