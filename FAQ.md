@@ -36,9 +36,9 @@ I played pretty all modalities and stakes online for 10+ years, lately mostly MT
 </h1>
 
 Because i just wanted something clear and usefull,  
-Marketing and website are not 'my area', in order to deliver at the lowest price possible i made it quick.
-On the other hand, building good software yes it is my area, and it is where i feel the most important to spend my efforts. 
-Thats why i didnt invest much (time and money) in website and marketing :)
+Marketing and website are not 'my area', in order to deliver at the lowest price possible i made it quick.  
+On the other hand, building good software yes it is my area, and it is where i feel the most important to spend my efforts.  
+Thats why i didnt invest much (time and money) in website and marketing :)  
 
 
 <h1 id="How-can-i-contact-you">
