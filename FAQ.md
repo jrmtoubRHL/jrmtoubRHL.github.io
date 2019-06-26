@@ -229,7 +229,7 @@ I currently have ready:
 - [MTT 30bb OR EPvsBB](https://payhip.com/b/cGdr)
 - [MTT 17bb OR HJvsBB](https://payhip.com/b/9RlA)
 - [SPIN 23bb Limp HU](https://payhip.com/b/xUnv)
-- SPIN 25bb OR HU
+- [SPIN 25bb OR HU](https://payhip.com/b/gmSo)
 
 [The online shop link](https://payhip.com/BlunderHunter)  
 
