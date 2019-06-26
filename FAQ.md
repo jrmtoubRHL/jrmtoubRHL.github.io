@@ -210,7 +210,7 @@ That’s why you may find relatively few questions for CBeting Flop for example,
 </h1>
 
 <a href="https://github.com/jrmtoubRHL/jrmtoubRHL.github.io/raw/master/Free_sample_100bb_3B_HU.apkg" download>Download 100 free anki cards (HU CASH 3betpot)</a>  
-Some phone have some display problem, if you see only two color deck, there is an easy solution, let me know.
+*Some phone display the cards in a weird way, if you see only two color deck, there is an easy solution, let me know.*
 
 
 <h1 id="Buy-Anki-cards-packages">
