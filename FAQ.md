@@ -209,7 +209,9 @@ That’s why you may find relatively few questions for CBeting Flop for example,
   Free Anki cards (Sample)
 </h1>
 
-<a href="https://github.com/jrmtoubRHL/jrmtoubRHL.github.io/raw/master/Free_sample_100bb_3B_HU.apkg" download>Download 100 free anki cards (HU CASH 3betpot)</a>
+<a href="https://github.com/jrmtoubRHL/jrmtoubRHL.github.io/raw/master/Free_sample_100bb_3B_HU.apkg" download>Download 100 free anki cards (HU CASH 3betpot)</a>  
+Some phone have some display problem, if you see only two color deck, there is an easy solution, let me know.
+
 
 <h1 id="Buy-Anki-cards-packages">
   Buy Anki cards packages.
@@ -274,8 +276,8 @@ Congratulation! You will now study the equilibrium much more efficiently!
 As you can see, the files of the pack are relatively smalls, but they are compressed,  
 ***When you import them, it is possible your app will freeze for a moment, even for 5minutes, 
 Please Be Patient! :)***   
-If it still lagging a bit just after the import, restart anki software and it will be ok.
-
+If it still lagging a bit just after the import, restart anki software and it will be ok.  
+*Some phone display the cards in a weird way, if you see only two color deck, there is an easy solution, let me know.*
 
 - For Windows/MAC/LINUX:
 
