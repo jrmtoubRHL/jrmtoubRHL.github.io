@@ -138,9 +138,16 @@ The algorithms i made follow couple of principles and adjust all the settings au
 - Excluding most of the hands with close EVs between the possible options, 
 	-  I don't care what GTO does, if it is close i just need to play exploitatively.
 	- I aim to find my big theoretical misunderstandings.
-
-
-- More secret stuff
+- Excluding most of the combo mixing,
+	- If GTO is mixing with a hand, by definition EVs are close, so i don't care if GTO is checking 90% or only 20%
+- Excluding obvious hands,
+	- Obviously if we have the nut on the flop , the difference between folding and calling vs a bet, will be huge,
+- Excluding all hands with low combo weight,
+	- If QQ only come 1% of the time in river  (because it does not play the same way on flop for example,) i jut dont care to do with that hand in that node..because it almost never comes here..(never played that way)
+- Excluding every low frequency line, 
+	- If the flop is never being betting small, i dont care to know how to play against small flop bets..
+	
+- etc etc etc, more secret stuff!
 
 [Video with more details](https://www.youtube.com/watch?v=7Bb0wTtsbeA)
 
