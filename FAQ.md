@@ -217,7 +217,7 @@ Poker is a very complex game, we are still in the stage of ‘loosing game’
 
 'Loosing game' means **most of the winning does not come from being playing actively,**     
 **But because the opponent made a mistake...**   
-To **win this kind of game, you just need to not make stupid mistakes.. (blunders :P) **     
+To **win this kind of game, you just need to not make stupid mistakes..** (AKA blunders in chess :P)      
 
 That is what i had in mind creating BlunderHunter.  
 
