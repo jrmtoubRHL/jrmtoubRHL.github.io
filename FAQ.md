@@ -18,6 +18,7 @@
    - [More about Anki](#More-about-Anki)
 - [**THE SECRET OF GTO**](#What-is-the-secret-of-GTO-in-poker)  
    - [The paradoxes of GTO](#The-paradoxes-of-GTO)
+   - [So, Why is GTO soo usefull? The loosing game.](#So-Why-is-GTO-soo-usefull-The-loosing-game)
 - [Download Free Anki Cards Sample](#Free-Anki-cards-Sample)
 - [**Buy Anki cards packages NOW**](#Buy-Anki-cards-packages)  
    - [The spot i am interested is not listed,what can i do?](#The-spot-i-am-interested-in-is-not-listed)  
