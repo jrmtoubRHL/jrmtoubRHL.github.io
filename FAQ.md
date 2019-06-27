@@ -212,12 +212,14 @@ That’s why you may find relatively few questions for CBeting Flop for example,
 <h1 id="So-Why-is-GTO-soo-usefull-The-loosing-game">
   So, Why is GTO soo usefull? The loosing game.
 </h1>
-Poker is a very complex game, we are still in the stage of ‘loosing game’  
-'Loosing game' means **most of the winning does not come from being playing actively,**    
-**But because the opponent made a mistake...**  
-To **win this kind of game, you just need to not make stupid mistakes.. (blunders :P) **    
 
-That is what i had in mind creating BlunderHunter.
+Poker is a very complex game, we are still in the stage of ‘loosing game’   
+
+'Loosing game' means **most of the winning does not come from being playing actively,**     
+**But because the opponent made a mistake...**   
+To **win this kind of game, you just need to not make stupid mistakes.. (blunders :P) **     
+
+That is what i had in mind creating BlunderHunter.  
 
 
 <h1 id="Free-Anki-cards-Sample">
