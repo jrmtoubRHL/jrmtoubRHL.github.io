@@ -134,10 +134,12 @@ Usually when the EVDiff% is less than 2%, it doesn’t matter what you do, and y
 </h1>
 
 The algorithms i made follow couple of principles and adjust all the settings automatically depending of the situation:
-- If We never Continuation bet of the flop QQ, it should never ask if barrel or not on the turn..
-- Same logic if opponent is never Betting big on flop, the anki cards will never ask you what to do in turn after opponent Bet big on flop.. As this line is never taken.
-- If all the Evs are similar , it is useless to ask what to do.
-- If all the Evs are too different , it is useless to ask what to do. (we never fold top set on flop vs a bet..)
+
+- Excluding most of the hands with close EVs between the possible options, 
+	-  I don't care what GTO does, if it is close i just need to play exploitatively.
+	- I aim to find my big theoretical misunderstandings.
+
+
 - More secret stuff
 
 [Video with more details](https://www.youtube.com/watch?v=7Bb0wTtsbeA)
