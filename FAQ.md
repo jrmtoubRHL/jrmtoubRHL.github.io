@@ -199,11 +199,22 @@ The difference is so close that **any small change from the inputs can change ra
   The paradoxes of GTO:
 </h1>
 
-- Usually the earlier in the hand, the closer are EVs.
+- Usually the **earlier in the hand and the deeper we are, the closer are EVs.**
 - When you can bet or check, the EVs are closer than when you are facing a bet.
-- The later in an hand, the more possible it is your opponents play differently than the equilibrium.
+So as we see in the previous section, you might think play exploitativly in flop and a more GTO style is river is the winning combination, but :  
+- **The later in an hand, the more likely it is your opponents play differently than the equilibrium.**  
 
-That’s why you may find relatively few questions for CBeting Flop for example, the evs are just too similar and for most of the combos it just doesn’t matters..
+That’s why you may find relatively few questions for CBeting Flop for example, the evs are just too similar and for most of the combos it just doesn’t matters..  
+
+<h1 id="So-Why-is-GTO-soo-usefull-The-loosing-game">
+  So, Why is GTO soo usefull? The loosing game.
+</h1>
+Poker is a very complex game, we are still in the stage of ‘loosing game’  
+'Loosing game' means **most of the winning does not come from being playing actively,  
+But because the opponent made a mistake...**  
+To **win this kind of game, you just need to not make stupid mistakes.. (blunders :P) **   
+
+
 
 <h1 id="Free-Anki-cards-Sample">
   Free Anki cards (Sample)
