@@ -259,7 +259,7 @@ I currently have ready:
 
 [The online shop link](https://payhip.com/BlunderHunter)  
 
-If you want to pay with **Skrill/Neteller/BTC/other** just email me:
+If you want to pay with **Skrill€/Neteller$/BTC** just email me:
 **blunderhunter.poker@gmail.com**  
 
 Every pack comes with :  
