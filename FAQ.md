@@ -301,7 +301,7 @@ Do i need piosolver to use this?
 
 No, Anyone can use them, no need to pourchase Piosolver license...
 - But If you dont have it and take you game seriously, just pourchase it, you will not regret it.
-- As i mention, one of the goals of the cards i am selling is to find spot were you are totally wrong for study them with piosolver with a more global view than my cards.
+- As i mention, one of the goals of the cards i am selling is to find spot were you are totally wrong for study them deeply later with piosolver, it give you a more global view than my cards. It is a diferent and completary study tool.
 
 
 <h1 id="How-do-i-import-what-i-just-bought">
