@@ -23,6 +23,7 @@
 - [**Buy Anki cards packages NOW**](#Buy-Anki-cards-packages)  
    - [The spot i am interested is not listed,what can i do?](#The-spot-i-am-interested-in-is-not-listed)  
    - [I want to buy the program to create the Anki cards myself, blunderhunter.](#I-want-to-buy-the-program-to-create-the-Anki-cards-myself-blunderhunter)
+   - [Do i need piosolver to use this?](#need-piosolver)
    - [How do i import what i just bought?](#How-do-i-import-what-i-just-bought)
 
 <h1 id="Who-are-you-what-do-you-play">
@@ -294,9 +295,19 @@ Selling the cards have those advantages:
 
 If you really want it, contact me.
 
+<h1 id="need-piosolver">
+Do i need piosolver to use this?
+</h1>
+
+No, Anyone can use them, no need to pourchase Piosolver license...
+- But If you dont have it and take you game seriously, just pourchase it, you will not regret it.
+- As i mention, one of the goals of the cards i am selling is to find spot were you are totally wrong for study them with piosolver with a more global view than my cards.
+
+
 <h1 id="How-do-i-import-what-i-just-bought">
   How do i import what i just bought?
 </h1>
+
 
 Congratulation! You will now study the equilibrium much more efficiently!  
 As you can see, the files of the pack are relatively smalls, but they are compressed,  
