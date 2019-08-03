@@ -64,7 +64,9 @@ It is a study tool; the main goals are:
 
 ![Ledgend](https://i.imgur.com/R9Zrmih.png)
 		 
-		 
+<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=EMAGFn85Bb8?autoplay=1" frameborder="0" allowfullscreen></iframe>
+
+
 <h1 id="Why-did-you-create-it">
   Why did you create it?
 </h1> 
@@ -257,8 +259,17 @@ I currently have ready:
 - [MTT 17bb OR HJvsBB](https://payhip.com/b/9RlA)
 - [SPIN 23bb Limp HU](https://payhip.com/b/xUnv)
 - [SPIN 25bb OR HU](https://payhip.com/b/gmSo)
+- [SPIN 25bb OR SBvsBB (3max)](https://payhip.com/b/QXGN)
 
 [The online shop link](https://payhip.com/BlunderHunter)  
+
+I give discount if you buy a Bundle (all your modality packs include)  
+You **keep the discount % for any new spot i add in future**;  
+
+- [CASHGAME BUNDLE](https://payhip.com/b/Xpk3)
+- [SPIN BUNDLE](https://payhip.com/b/1Kk6)
+- [MTT BUNDLE](https://payhip.com/b/q2KR)
+
 
 If you want to pay with **Skrill€/Neteller$/BTC** just email me:
 **blunderhunter.poker@gmail.com**  
