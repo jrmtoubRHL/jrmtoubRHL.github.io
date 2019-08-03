@@ -63,8 +63,10 @@ It is a study tool; the main goals are:
 </h1> 
 
 ![Ledgend](https://i.imgur.com/R9Zrmih.png)
-		 
-[![What-am-i-seeing](https://i.imgur.com/R9Zrmih.png)](https://www.youtube.com/watch?v=EMAGFn85Bb8 "What-am-i-seeing")
+
+Video:  
+
+[![What-am-i-seeing](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fih1.redbubble.net%2Fimage.25011287.7046%2Fap%2C550x550%2C12x12%2C1%2Ctransparent%2Ct.u1.png&f=1)](https://www.youtube.com/watch?v=EMAGFn85Bb8 "What-am-i-seeing")
 
 <h1 id="Why-did-you-create-it">
   Why did you create it?
