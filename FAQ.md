@@ -64,8 +64,7 @@ It is a study tool; the main goals are:
 
 ![Ledgend](https://i.imgur.com/R9Zrmih.png)
 		 
-<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=EMAGFn85Bb8?autoplay=1" frameborder="0" allowfullscreen></iframe>
-
+[![What-am-i-seeing](https://i.imgur.com/R9Zrmih.png)](https://www.youtube.com/watch?v=EMAGFn85Bb8 "What-am-i-seeing")
 
 <h1 id="Why-did-you-create-it">
   Why did you create it?
