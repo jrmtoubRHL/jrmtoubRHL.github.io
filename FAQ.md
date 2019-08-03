@@ -16,6 +16,7 @@
    - [How did you choose interesting and important questions?](#How-did-you-choose-interesting-and-important-questions)  
 - [What is Anki?](#What-is-Anki)
    - [More about Anki](#More-about-Anki)
+   - [How to configure Anki for Poker?](#How-to-configure-Anki-for-Poker)
 - [**THE SECRET OF GTO**](#What-is-the-secret-of-GTO-in-poker)  
    - [The paradoxes of GTO](#The-paradoxes-of-GTO)
    - [So, Why is GTO soo usefull? The loosing game.](#So-Why-is-GTO-soo-usefull-The-loosing-game)
@@ -181,6 +182,16 @@ The algorithms i made follow couple of principles and adjust all the settings au
 - [The use of spaced repetition memory systems has changed my life over the past couple of years. Here's a few things I've found helpful](https://twitter.com/michael_nielsen/status/957763229454774272)
 - [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html)
 - [Supememo](https://www.supermemo.com/en)
+
+<h1 id="How-to-configure-Anki-for-Poker">
+  How to configure Anki for Poker? :
+</h1>
+
+I made a video for this :
+
+[![cfgANKI](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fih1.redbubble.net%2Fimage.25011287.7046%2Fap%2C550x550%2C12x12%2C1%2Ctransparent%2Ct.u1.png&f=1)](https://www.youtube.com/watch?v=YaMYy0jh_DA "cfgANKI")
+
+
 
 <h1 id="What-is-the-secret-of-GTO-in-poker">
   What is the secret of GTO in poker?
