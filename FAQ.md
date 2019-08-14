@@ -141,16 +141,16 @@ Usually when the EVDiff% is less than 2%, it doesn’t matter what you do, and y
 The algorithms i made follow couple of principles and adjust all the settings automatically depending of the situation:
 
 - Excluding most of the hands with close EVs between the possible options, 
-	-  I don't care what GTO does, if it is close i just need to play exploitatively.
-	- I aim to find my big theoretical misunderstandings.
+	- It is useless to know what GTO does, if it is close you just need to play exploitatively.
+	- Only aim to find big theoretical misunderstandings.
 - Excluding most of the combo mixing,
-	- If GTO is mixing with a hand, by definition EVs are close, so i don't care if GTO is checking 90% or only 20%
+	- If GTO is mixing with a hand, by definition EVs are close, so it is irrelevant to know(study) GTO is checking 90% or only 20%
 - Excluding obvious hands,
-	- Obviously if we have the nut on the flop , the difference between folding and calling vs a bet, will be huge,
+	- Obviously we are never gone fold the nut on the flop (the difference between folding and calling vs a bet, will be huge, and again useless to study)  
 - Excluding all hands with low combo weight,
-	- If QQ only come 1% of the time in river  (because it does not play the same way on flop for example,) i jut dont care to do with that hand in that node..because it almost never comes here..(never played that way)
+	- If QQ only come 1% of the time in river  (because it does not play the same way on flop for example,) it is useless to know what to do with that hand in that node..because it almost never comes here..(never been played that way)
 - Excluding every low frequency line, 
-	- If the flop is never being betting small, i dont care to know how to play against small flop bets..
+	- If the flop is never being betting small, again, it is useless to know how to play against small flop bets..
 	
 - etc etc etc, more secret stuff!
 
