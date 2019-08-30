@@ -18,6 +18,8 @@ Now if you want to know more, i recomend you [check my youtube channel](https://
 
 You can also look at the FAQ for documentation and common questions.
 
+Contact me! email : **blunderhunter.poker@gmail.com**
+
 [<img align="center" width="390" height="130" src="https://i.imgur.com/HlpOH0C.jpg">](https://payhip.com/BlunderHunter)[<img align="center" width="300" height="100" src="https://i.imgur.com/GNoJdNN.jpg">](FAQ.md)
 
 [<img align="center" width="390" height="130" src="https://i.imgur.com/sSsFPeH.jpg">](https://www.youtube.com/channel/UC8v7NiZJeArSb03ukf86bKA) [<img align="center" width="300" height="100" src="https://i.imgur.com/5w9Ynsj.png">](https://www.twitch.tv/blunderhunter)
