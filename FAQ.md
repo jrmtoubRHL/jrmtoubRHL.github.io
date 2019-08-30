@@ -191,6 +191,11 @@ I made a video for this :
 
 [![cfgANKI](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fih1.redbubble.net%2Fimage.25011287.7046%2Fap%2C550x550%2C12x12%2C1%2Ctransparent%2Ct.u1.png&f=1)](https://www.youtube.com/watch?v=YaMYy0jh_DA "cfgANKI")
 
+Here are the setting i suggest:
+
+![alt text](https://i.imgur.com/OshHNm6.png)  
+
+But look at the video for see how sync phone and PC (easy), restructure the fields (for example study all the river vs bet randomly) etc   
 
 
 <h1 id="What-is-the-secret-of-GTO-in-poker">
