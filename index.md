@@ -1,3 +1,10 @@
+[<img align="center" width="390" height="130" src="https://i.imgur.com/HlpOH0C.jpg">](https://payhip.com/BlunderHunter)[<img align="center" width="300" height="100" src="https://i.imgur.com/GNoJdNN.jpg">](FAQ.md)
+
+[<img align="center" width="390" height="130" src="https://i.imgur.com/sSsFPeH.jpg">](https://www.youtube.com/channel/UC8v7NiZJeArSb03ukf86bKA) [<img align="center" width="300" height="100" src="https://i.imgur.com/5w9Ynsj.png">](https://www.twitch.tv/blunderhunter)
+
+[<img src="https://i.imgur.com/khmrS9G.jpg" width="700" height="180">](https://twitter.com/BlunderHunter1)
+
+
 I made Anki flashcards (questions/answer), for get a better understanding of the equilibrium (**all come from piosolver**).  
 
 Three goals: 
@@ -14,14 +21,9 @@ I think the main key points i am doing better than others are :
 
 
 
-Now if you want to know more, i recomend you [check my youtube channel](https://www.youtube.com/channel/UC8v7NiZJeArSb03ukf86bKA) below, there are examples of study sessions, and also some more theory focus videos, i explain GTO principles behind blunderhunter.  
+Now if you want to know more, i recomend you [check my youtube channel](https://www.youtube.com/channel/UC8v7NiZJeArSb03ukf86bKA) up, there are examples of study sessions, and also some more theory focus videos, i explain GTO principles behind blunderhunter.  
 
 You can also look at the FAQ for documentation and common questions.
 
-Contact me! email : **blunderhunter.poker@gmail.com**
+Contact me, email : **blunderhunter.poker@gmail.com**
 
-[<img align="center" width="390" height="130" src="https://i.imgur.com/HlpOH0C.jpg">](https://payhip.com/BlunderHunter)[<img align="center" width="300" height="100" src="https://i.imgur.com/GNoJdNN.jpg">](FAQ.md)
-
-[<img align="center" width="390" height="130" src="https://i.imgur.com/sSsFPeH.jpg">](https://www.youtube.com/channel/UC8v7NiZJeArSb03ukf86bKA) [<img align="center" width="300" height="100" src="https://i.imgur.com/5w9Ynsj.png">](https://www.twitch.tv/blunderhunter)
-
-[<img src="https://i.imgur.com/khmrS9G.jpg" width="700" height="180">](https://twitter.com/BlunderHunter1)
