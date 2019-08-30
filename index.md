@@ -5,7 +5,7 @@
 [<img src="https://i.imgur.com/khmrS9G.jpg" width="700" height="180">](https://twitter.com/BlunderHunter1)
 
 
-I made Anki flashcards (questions/answer), for get a better understanding of the equilibrium (**all come from piosolver**).  
+I make Anki flashcards (questions/answer), for get a better understanding of the equilibrium (**all come from piosolver**).  
 
 Three goals: 
 
