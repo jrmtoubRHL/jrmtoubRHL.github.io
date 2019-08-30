@@ -16,14 +16,14 @@ Three goals:
 I think the main key points i am doing better than others are : 
 
 - **Using Anki**, you can study on your smartphone/tablet and sync with your PC, it is an open source tool, After 10+ years of development from 80 contributors, The app master the learning process using spaced repetition memorization... 
-- **Never loose your time**, i made a complex algorithm to choose what to ask, only important and interesting questions. ( https://blunderhunter.com/FAQ.html#How-did-you-choose-interesting-and-important-questions ) 
-- **Show a lot of information in the answer to understand** better the situation (and why you made a mistake) https://blunderhunter.com/FAQ.html#What-am-i-seeing-caption 
+- **Never loose your time**, i made a complex [algorithm](https://blunderhunter.com/FAQ.html#How-did-you-choose-interesting-and-important-questions) to choose what to ask, only important and interesting questions. 
+- **Show a lot of information in the answer to understand** better the situation [(and why you made a mistake)](https://blunderhunter.com/FAQ.html#What-am-i-seeing-caption)
 
 
 
 Now if you want to know more, i recomend you [check my youtube channel](https://www.youtube.com/channel/UC8v7NiZJeArSb03ukf86bKA) up, there are examples of study sessions, and also some more theory focus videos, i explain GTO principles behind blunderhunter.  
 
-You can also look at the FAQ for documentation and common questions.
+You can also look at the [FAQ](https://blunderhunter.com/FAQ.html) for documentation and common questions.
 
 Contact me, email : **blunderhunter.poker@gmail.com**
 
