@@ -12,8 +12,11 @@ I think the main key points i am doing better than others are :
 - **Never loose your time**, i made a complex algorithm to choose what to ask, only important and interesting questions. ( https://blunderhunter.com/FAQ.html#How-did-you-choose-interesting-and-important-questions ) 
 - **Show a lot of information in the answer to understand** better the situation (and why you made a mistake) https://blunderhunter.com/FAQ.html#What-am-i-seeing-caption 
 
-Check my youtube channel below, there are examples of study sessions, and also some more theory focus videos, i explain GTO principles behind blunderhunter.  
 
+
+Now if you want to know more, i recomend you [check my youtube channel](https://www.youtube.com/channel/UC8v7NiZJeArSb03ukf86bKA) below, there are examples of study sessions, and also some more theory focus videos, i explain GTO principles behind blunderhunter.  
+
+You can also look at the FAQ for documentation and common questions.
 
 [<img align="center" width="390" height="130" src="https://i.imgur.com/HlpOH0C.jpg">](https://payhip.com/BlunderHunter)[<img align="center" width="300" height="100" src="https://i.imgur.com/GNoJdNN.jpg">](FAQ.md)
 
