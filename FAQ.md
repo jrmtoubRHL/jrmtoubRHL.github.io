@@ -277,6 +277,7 @@ I currently have ready:
 - [SPIN 23bb Limp HU](https://payhip.com/b/xUnv)
 - [SPIN 25bb OR HU](https://payhip.com/b/gmSo)
 - [SPIN 25bb OR SBvsBB (3max)](https://payhip.com/b/QXGN)
+- [SPIN 25bb OR BUvsBB (3max)](https://payhip.com/b/quQw)  
 
 [The online shop link](https://payhip.com/BlunderHunter)  
 
@@ -286,7 +287,7 @@ You **keep the discount % for any new spot i add in future**;
 - [CASHGAME BUNDLE](https://payhip.com/b/Xpk3)
 - [SPIN BUNDLE](https://payhip.com/b/1Kk6)
 - [MTT BUNDLE](https://payhip.com/b/q2KR)
-
+- [POKERMASTER BUNDLE](https://payhip.com/b/gpT0)
 
 If you want to pay with **Skrill€/Neteller$/BTC** just email me:
 **blunderhunter.poker@gmail.com**  
